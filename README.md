@@ -1,6 +1,7 @@
+
 ---
 
-
+## 🔰 **1. Foundation: Why Generics?**
 
 ### Goals:
 
@@ -209,3 +210,4 @@
 * ✅ Use `javap -c` or bytecode decompilers to study type erasure in practice.
 
 ---
+
