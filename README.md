@@ -4,10 +4,12 @@
 
 ### Goals:
 
-* Understand **type safety**, **reusability**, and **elimination of casting**.
-* Know the problems with using `Object` and raw types (pre-Java 5).
 
+### Study Topics:
 
+* What is type erasure?
+* Before/after Java 5 code examples (`List<Object>` vs `List<String>`).
+* Runtime vs compile-time safety.
 
 ---
 
