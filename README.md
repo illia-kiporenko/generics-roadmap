@@ -2,7 +2,7 @@
 
 ## 🔰 **1. Foundation: Why Generics?**
 
-### Goals:
+
 
 * Understand **type safety**, **reusability**, and **elimination of casting**.
 * Know the problems with using `Object` and raw types (pre-Java 5).
