@@ -1,4 +1,4 @@
-package me.kiporenko.generics.task3;
+package me.kiporenko.generics.task3.solution;
 
 import java.util.Arrays;
 import java.util.List;

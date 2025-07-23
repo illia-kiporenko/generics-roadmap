@@ -1,4 +1,4 @@
-package me.kiporenko.generics.task1;
+package me.kiporenko.generics.task1.solution;
 
 import java.util.ArrayList;
 import java.util.List;

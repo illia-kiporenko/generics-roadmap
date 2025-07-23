@@ -1,4 +1,4 @@
-package me.kiporenko.generics.task2;
+package me.kiporenko.generics.task2.solution;
 
 public class Task2 {
 	public static void main(String[] args) {
